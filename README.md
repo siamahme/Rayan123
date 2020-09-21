@@ -19,4 +19,4 @@ git clone https://github.com/siamahme/Rayan123
 cd Rayan123
 
 
-python2 Rayan123.py
+python2 Rayan.py
